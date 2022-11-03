@@ -3,4 +3,5 @@ Lisboa
 Bristol
 Nottingham
 Cardiff
+Exeter
 

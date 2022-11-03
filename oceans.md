@@ -1,2 +1,2 @@
-Pacific
-Arctic
+Pacific ocean
+Arctic ocean

@@ -1,4 +1,5 @@
 A list of all the collaborators:
 Iain-S
-add new collabs
+Phil Swatton
 Nadia Do
+
